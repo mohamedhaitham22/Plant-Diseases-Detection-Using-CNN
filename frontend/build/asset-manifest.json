@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d5bbb67.chunk.css",
+    "main.js": "/static/js/main.523b39de.chunk.js",
+    "main.js.map": "/static/js/main.523b39de.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7504950c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7504950c.js.map",
+    "static/js/2.82ab9a36.chunk.js": "/static/js/2.82ab9a36.chunk.js",
+    "static/js/2.82ab9a36.chunk.js.map": "/static/js/2.82ab9a36.chunk.js.map",
+    "static/js/3.35645752.chunk.js": "/static/js/3.35645752.chunk.js",
+    "static/js/3.35645752.chunk.js.map": "/static/js/3.35645752.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5d5bbb67.chunk.css.map": "/static/css/main.5d5bbb67.chunk.css.map",
+    "static/js/2.82ab9a36.chunk.js.LICENSE.txt": "/static/js/2.82ab9a36.chunk.js.LICENSE.txt",
+    "static/media/PlantIcon1.eeefa143.png": "/static/media/PlantIcon1.eeefa143.png",
+    "static/media/PlantIcon2.0a7c1dcf.png": "/static/media/PlantIcon2.0a7c1dcf.png",
+    "static/media/PlantIcon3.62418564.png": "/static/media/PlantIcon3.62418564.png",
+    "static/media/PlantIcon4.b66f253c.png": "/static/media/PlantIcon4.b66f253c.png",
+    "static/media/backgroundImage.b58906be.png": "/static/media/backgroundImage.b58906be.png",
+    "static/media/logo.5933b895.PNG": "/static/media/logo.5933b895.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7504950c.js",
+    "static/js/2.82ab9a36.chunk.js",
+    "static/css/main.5d5bbb67.chunk.css",
+    "static/js/main.523b39de.chunk.js"
+  ]
+}
