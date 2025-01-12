@@ -120,7 +120,7 @@ graph TB
 ### Backend Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/plant-disease-detection.git
+git clone https://github.com/AmazingMoaaz/plant-disease-detection.git
 cd plant-disease-detection
 
 # Setup Python environment
